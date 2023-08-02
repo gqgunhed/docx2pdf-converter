@@ -21,7 +21,7 @@ def converter_loop(filelist):
         except AttributeError as err:
             print("Error converting %s\nError: %s" % (file, str(err.message)))
         window.Refresh()
-    print("Fertig.")
+    print("Done.")
 
 
 
