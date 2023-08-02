@@ -18,6 +18,6 @@ python converter.pyw
  * https://stackoverflow.com/questions/66381996/print-output-in-the-gui-screen
  * https://stackoverflow.com/questions/70527338/continuously-updating-pysimplegui-window
 
-## https://pyinstaller.org/en/stable/usage.html
+## Build .exe
 Build the software with "pyinstaller" using the provided "build.bat"
  * https://pyinstaller.org/en/stable/usage.html
