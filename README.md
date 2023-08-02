@@ -1,6 +1,17 @@
 # docx2pdf-converter
 Convert .docx to .pdf with PySimpleGUI
 
+## Installation
+```
+pip install -r requirements.txt
+```
+
+## Usage
+```
+python converter.pyw
+```
+... or use the .exe when built
+
 ## some docs here
  * https://stackoverflow.com/questions/55573754/load-multiple-file-with-pysimplegui
  * https://www.programcreek.com/python/example/116000/PySimpleGUI.FileBrowse
